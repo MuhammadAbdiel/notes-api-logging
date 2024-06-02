@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "E:\\web-project\\dicoding\\learning path\\back end\\expert\\notes-api-logging\\src\\logger\\.f4e75e1902b83fee934d75d23185487334d54de9-audit.json",
+    "files": [
+        {
+            "date": 1717336179619,
+            "name": "E:\\web-project\\dicoding\\learning path\\back end\\expert\\notes-api-logging\\src\\logger\\application-2024-06-02-20.log",
+            "hash": "354cd988464cc97a45748a8e7f80e3e86748f4eca27e43ba0c0c0a23210c15e4"
+        }
+    ],
+    "hashType": "sha256"
+}
